@@ -1,5 +1,5 @@
 #!/usr/bin/python
-#
+ #This comment was the first successful bluetooth pi to computer bluetooth message.
 # YAPTB Bluetooth keyboard emulation service
 # keyboard copy client. 
 # Reads local key events and forwards them to the btk_server DBUS service
